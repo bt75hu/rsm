@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #000000;
+	color: rgba(255,255,255,1.00);
+	font-family: "Segoe UI";
+}
+
+h1, h2, h3, h4, h5	 {
+	font-weight: 300;
+}
+
+pre {
+	color: #fbfffc;
+}
+
+.w10_menu {
+	background-color: #224c5c;
+	color: #fbfffc;
+}
+
+.w10_active_menu {
+	background-color: #162e38;
+	border-color: #7f96a8;
+	border-width: thin;
+	border-style:solid;
+	color: #a8b9c3;
+}
+
+.w10_float_menu {
+	background-color: #1d1d1d;
+}
+
+.w10_float_active_menu {
+	background-color: #00457c;
+}
+
+.w10_note_text {
+	color: #427fae;
+}
+
+.w10_tray {
+	background-color: #1c3a54;
+	color: #f2ffff;
+}
+
+.w10_tray_searchbar {
+	background-color: #333333;
+}
+
+
+

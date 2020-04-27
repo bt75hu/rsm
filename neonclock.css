@@ -1,0 +1,33 @@
+@import url(//db.onlinewebfonts.com/c/55f96a010646b90457e9bc03d43e2b67?family=Quartz);
+
+@font-face {
+  font-family: Quartz;
+  src: ur(CrystalItalic-R6A.ttf);
+}
+
+.neclk_container{
+  /* position: relative;
+  left:50%;
+  top:50%; */
+}
+.neclk_seconds{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  background: #00f908;
+  box-shadow: 0 0 1em 0.13em #08a20d;
+}
+.neclk_time{
+
+  font-family: 'Quartz';
+  font-size:2.5em;
+  position:absolute;
+  top:47%;
+  left:47%;
+  color:white;
+  -webkit-transform:  translatex(-42px) translatey(-22px);
+  text-shadow: 0 0 10px #87ceeb, 0 0 15px #87ceeb, 0 0 30px deepskyblue 
+    /*, 0 0 30px deepskyblue, 0 0 30px deepskyblue, 0 0 40px deepskyblue 
+    , 0 0 50px deepskyblue, 0 0 60px deepskyblue, 0 0 70px deepskyblue, 
+    0 0 80px deepskyblue, 0 0 90px deepskyblue, 0 0 100px skyblue */;        
+}
